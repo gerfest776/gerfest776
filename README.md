@@ -4,7 +4,9 @@
   </a>
 </h1>
 
-**gerfest776/gerfest776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is German Gritsenko. And I have a dream. Whoops, it that a JOJO REFERENCE? 
+<br/>
+<br/>
 
 Here are some ideas to get you started:
 
