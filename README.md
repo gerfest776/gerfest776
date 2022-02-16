@@ -10,10 +10,9 @@
 
 ## More About Me:
 
-- &nbsp; Have love coding since school
-- &nbsp; Won't rest until I complete the task
+- 👼🏻 &nbsp; Have love coding since school
+- 🤬 &nbsp; Won't rest until I complete the task
 - &nbsp; ♂️GYM♂️ - is coding for my muscles
-- &nbsp; Always ready to participate in new projects
-- &nbsp; JoJoFun
-- &nbsp; Love myself
--->
+- 😩 &nbsp; Always ready to participate in new projects
+- 💪🏻 &nbsp; JoJoFun
+- 💩 &nbsp; Love myself
