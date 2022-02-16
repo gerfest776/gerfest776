@@ -4,13 +4,13 @@
   </a>
 </h1>
 
-## My name is German Gritsenko. And I have a dream. Whoops, it that a JOJO REFERENCE?
+# My name is German Gritsenko. And I have a dream. Whoops, it that a JOJO REFERENCE?
 <br/>
 <br/>
 
-Here are some ideas to get you started:
+## More About Me:
 
-- 🔭 I’m currently working on ...
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
