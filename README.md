@@ -26,6 +26,7 @@
   <tr>
     <td align="center" width="96">
         <img src="https://web-creator.ru/uploads/Page/19/python.svg" width="48" height="48" alt="Python" />
+        <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
