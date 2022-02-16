@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-## My name is German Gritsenko. And I have a dream. Whoops, it that a JOJO REFERENCE? 
+## <center> My name is German Gritsenko. And I have a dream. Whoops, it that a JOJO REFERENCE? </center>
 <br/>
 <br/>
 
