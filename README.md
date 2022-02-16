@@ -44,28 +44,21 @@
         <img src="https://plugins.jetbrains.com/files/12820/141266/icon/pluginIcon.svg" width="48" height="48" alt="PgSQL" />
         <br>Redis
     </td>
-    </td>
     <td align="center" width="96">
         <img src="https://pbs.twimg.com/profile_images/3534818042/cb2fc8174648f5862d73efc33109e8ea_400x400.png" width="48" height="48" alt="PgSQL" />
         <br>Celery
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
+        <img src="https://timeweb.com/ru/community/article/82/82a19c4a0263cc9bf31614260ac17e71.png" width="48" height="48" alt="PgSQL" />
+        <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
+        <img src="https://i0.wp.com/dotsandbrackets.com/wp-content/uploads/2016/10/compose-logo.jpg?resize=622%2C530&ssl=1" width="48" height="48" alt="PgSQL" />
+        <br>Compose
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
+        <img src="https://tproger.ru/s3/uploads/2020/12/git_guide_for_beginners-cover-icon-original.png" width="48" height="48" alt="PgSQL" />
+        <br>GIT
     </td>
   </tr>
 </table>
