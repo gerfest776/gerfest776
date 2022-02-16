@@ -6,8 +6,6 @@
 
 # My name is German Gritsenko. And I have a dream. Whoops, it that a JOJO REFERENCE?
 <br/>
-<br/>
-
 <img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/newsfeed/000/970/895/31e.gif" width="360px"/>
 
 ## More About Me:
