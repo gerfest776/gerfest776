@@ -16,4 +16,3 @@
 - 😩 &nbsp; Always ready to participate in new projects
 - 💪🏻 &nbsp; JoJoFun
 - 💩 &nbsp; Love myself
-- 🤕 &nbsp; Funny
