@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+German;I+great+you!;gerfest776&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=gerfest776&center=true&size=30">
   </a>
 </h1>
 
-My name is German Gritsenko. And I have a dream. Whoops, it that a JOJO REFERENCE? 
+## My name is German Gritsenko. And I have a dream. Whoops, it that a JOJO REFERENCE? 
 <br/>
 <br/>
 
