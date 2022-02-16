@@ -33,7 +33,7 @@
         <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://www.pikpng.com/pngl/m/200-2005193_api-api-logo-transparent-clipart.png" width="48" height="48" alt="Django" />
+        <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/120807094/original/7432984e0a125bd401e8708f3d992e5c709acb29/build-you-an-api-for-your-web-app-or-mobile-app.png" width="48" height="48" alt="Django" />
         <br>DRF
     </td>
     <td align="center" width="96">
