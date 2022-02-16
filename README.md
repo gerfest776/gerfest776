@@ -33,8 +33,8 @@
         <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" width="48" height="48" alt="Django" />
-        <br>DjangoREST
+        <img src="https://w7.pngwing.com/pngs/835/174/png-transparent-application-programming-interface-computer-icons-representational-state-transfer-api-icon-text-logo-interface.png" width="48" height="48" alt="Django" />
+        <br>DRF
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
