@@ -8,6 +8,13 @@
 </br>
 </br>
 
+  <style>
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
+  </style>
+
 <img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/newsfeed/000/970/895/31e.gif" width="360px"/>
 
 ## More About Me:
