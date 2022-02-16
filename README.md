@@ -16,3 +16,9 @@
 - 😩 &nbsp; Always ready to participate in new projects
 - 💪🏻 &nbsp; JoJoFun
 - 💩 &nbsp; Love myself
+
+<br/>
+<br/>
+<br/>
+
+#Languages and tools:
