@@ -46,7 +46,7 @@
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/b0b66785-c2db-4cf4-94b0-de0240633060-celery.png" width="48" height="48" alt="PgSQL" />
+        <img src="https://pbs.twimg.com/profile_images/3534818042/cb2fc8174648f5862d73efc33109e8ea_400x400.png" width="48" height="48" alt="PgSQL" />
         <br>Celery
     </td>
     <td align="center" width="96">
