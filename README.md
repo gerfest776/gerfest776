@@ -9,6 +9,8 @@
 </br>
 
 ## More About Me:
+</br>
+</br>
 
 <img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/newsfeed/000/970/895/31e.gif" width="360px"/>
 
@@ -18,4 +20,4 @@
 - 😩 &nbsp; Always ready to participate in new projects
 - 💪🏻 &nbsp; JoJoFun
 - 💩 &nbsp; Love myself
-
+- 🤕 &nbsp; Funny
