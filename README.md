@@ -41,16 +41,13 @@
         <br>PgSQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+        <img src="https://plugins.jetbrains.com/files/12820/141266/icon/pluginIcon.svg" width="48" height="48" alt="PgSQL" />
+        <br>Redis
+    </td>
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
+        <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/b0b66785-c2db-4cf4-94b0-de0240633060-celery.png" width="48" height="48" alt="PgSQL" />
+        <br>Celery
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
