@@ -29,16 +29,12 @@
         <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+        <img src="https://habrastorage.org/getpro/freelansim/allfiles/53/533/533670/839d71d825.png" width="48" height="48" alt="Django" />
+        <br>Django
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
+        <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" width="48" height="48" alt="Django" />
+        <br>DjangoREST
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
