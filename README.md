@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/newsfeed/000/970/895/31e.gif" width="360px"/>
 ## More About Me:
 
 - 👼🏻 &nbsp; Have love coding since school
