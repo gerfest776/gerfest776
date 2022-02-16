@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# My name is German Gritsenko. And I have a dream. Whoops, it that a JOJO REFERENCE?
+# My name is German Gritsenko. And I have a dream. Whoops, is that a JOJO REFERENCE?
 <br/>
 <img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/newsfeed/000/970/895/31e.gif" width="450"/>
 
