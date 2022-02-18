@@ -18,8 +18,6 @@
 - 💩 &nbsp; Love myself
 - 🤕 &nbsp; Funny?
 
-<br/>
-
 ### Languages and tools:
 
 <table>
