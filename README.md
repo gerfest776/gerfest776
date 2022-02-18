@@ -19,7 +19,6 @@
 - 🤕 &nbsp; Funny?
 
 <br/>
-<br/>
 
 ### Languages and tools:
 
