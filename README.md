@@ -51,8 +51,8 @@
         <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://i0.wp.com/dotsandbrackets.com/wp-content/uploads/2016/10/compose-logo.jpg?resize=622%2C530&ssl=1" width="48" height="48" alt="PgSQL" />
-        <br>Compose
+        <img src="https://w7.pngwing.com/pngs/262/242/png-transparent-nginx-phusion-passenger-application-software-proxy-server-reverse-proxy-creativo-logo-de-marca-angle-text-trademark.png" width="48" height="48" alt="PgSQL" />
+        <br>Nginx
     </td>
     <td align="center" width="96">
         <img src="https://tproger.ru/s3/uploads/2020/12/git_guide_for_beginners-cover-icon-original.png" width="48" height="48" alt="PgSQL" />
