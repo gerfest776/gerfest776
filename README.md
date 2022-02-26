@@ -51,7 +51,7 @@
         <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://w7.pngwing.com/pngs/262/242/png-transparent-nginx-phusion-passenger-application-software-proxy-server-reverse-proxy-creativo-logo-de-marca-angle-text-trademark.png" width="48" height="48" alt="PgSQL" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbQP2DoSO32lDEtfRfMDsrpAhn-qUxh-9YMvFqDuYuH5NgkfrBlj1l3mjDGca0z4z7Fg&usqp=CAU" width="48" height="48" alt="PgSQL" />
         <br>Nginx
     </td>
     <td align="center" width="96">
