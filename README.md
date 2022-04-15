@@ -31,8 +31,8 @@
         <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" width="48" height="48" alt="DRF" />
-        <br>DRF
+        <img src="https://www.jetbrains.com/pycharm/guide/static/102c66c4f4781b5749c3013d650199f9/fastapi.svg" width="48" height="48" alt="DRF" />
+        <br>FastAPI
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PgSQL" />
