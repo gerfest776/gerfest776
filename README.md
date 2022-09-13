@@ -27,12 +27,12 @@
         <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://habrastorage.org/getpro/freelansim/allfiles/53/533/533670/839d71d825.png" width="48" height="48" alt="Django" />
-        <br>Django
-    </td>
-    <td align="center" width="96">
         <img src="https://www.jetbrains.com/pycharm/guide/static/102c66c4f4781b5749c3013d650199f9/fastapi.svg" width="48" height="48" alt="DRF" />
         <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://habrastorage.org/getpro/freelansim/allfiles/53/533/533670/839d71d825.png" width="48" height="48" alt="Django" />
+        <br>Django
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PgSQL" />
